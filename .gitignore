@@ -1,0 +1,10 @@
+.stack-work/
+.gradle/
+gradle/
+.idea/
+build/
+.lein-failures
+.lein-repl-history
+target/
+build-artifacts/
+elm-stuff/
